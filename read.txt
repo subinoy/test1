@@ -7,5 +7,7 @@ Now I 'm adding another line
 How abt deleting this line and add a new thing
 
 Now I'm changing
-This is in test 2 changes
+cool This is in test 2 changes
+
+ok so here is the change
 
